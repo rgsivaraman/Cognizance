@@ -3,3 +3,4 @@ Fruits
 Bananas
 Apples
 Oranges
+Cherries
