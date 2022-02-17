@@ -1,0 +1,10 @@
+This program helps to find whether the number is divisible by 3 or not without using modulus operator
+
+Input a
+Set b to 3
+Set dividend=a/b
+Set remainder=a-(dividend*b)
+If remainder=0
+   Print "True"
+Else
+   Print "False"
