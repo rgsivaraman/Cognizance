@@ -1,3 +1,0 @@
-"# Cognizance" 
-"# Cognizance" 
-"# Cognizance" 
